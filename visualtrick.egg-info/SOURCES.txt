@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.py
+visualtrick/__init__.py
+visualtrick/analyzer.py
+visualtrick/graph_builder.py
+visualtrick/readme_builder.py
+visualtrick/utils.py
+visualtrick/visualtrick.py
+visualtrick.egg-info/PKG-INFO
+visualtrick.egg-info/SOURCES.txt
+visualtrick.egg-info/dependency_links.txt
+visualtrick.egg-info/entry_points.txt
+visualtrick.egg-info/top_level.txt

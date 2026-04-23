@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: visualtrick
+Version: 1.6.0
+Summary: AI-powered repository visualization tool
+Requires-Python: >=3.9
+Dynamic: requires-python
+Dynamic: summary

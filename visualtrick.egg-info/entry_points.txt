@@ -1,0 +1,2 @@
+[console_scripts]
+visualtrick = visualtrick.visualtrick:main

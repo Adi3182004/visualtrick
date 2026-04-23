@@ -1,0 +1,18 @@
+to update the zip or py wheel file
+ pip install build                                 
+>> python -m build
+to show live graphs in github pages, add the following to your requirements.txt file:
+In your GitHub repo:
+
+Go to Settings
+
+Click Pages
+
+Source → select:
+
+Deploy from branch
+Branch: main
+Folder: /docs
+
+Save.
+
